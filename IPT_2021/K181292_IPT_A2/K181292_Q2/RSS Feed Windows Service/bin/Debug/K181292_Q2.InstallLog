@@ -1,0 +1,71 @@
+﻿Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Installing service RssFeedServices...
+Service RssFeedServices has been successfully installed.
+Creating EventLog source RssFeedServices in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Removing EventLog source RSS_FEED_SERVICE.
+Warning: The source RSS_FEED_SERVICE is not registered on the local machine.
+Service RSS_FEED_SERVICE is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Installing service RSS_FEED_SERVICE...
+Service RSS_FEED_SERVICE has been successfully installed.
+Creating EventLog source RSS_FEED_SERVICE in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Removing EventLog source RSS_FEED_SERVICE.
+Service RSS_FEED_SERVICE is being removed from the system...
+Service RSS_FEED_SERVICE was successfully removed from the system.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Installing service RSS_FEED_SERVICE...
+Service RSS_FEED_SERVICE has been successfully installed.
+Creating EventLog source RSS_FEED_SERVICE in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Installing service RSS_FEED_SERVICE...
+Creating EventLog source RSS_FEED_SERVICE in log Application...
+Rolling back assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q2\RSS Feed Windows Service\bin\Debug\K181292_Q2.exe
+Restoring event log to previous state for source RSS_FEED_SERVICE.

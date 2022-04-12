@@ -1,0 +1,4 @@
+12/14/2021 11:22:30 PM EmailSender service is Stopped!
+12/14/2021 11:23:11 PM EmailSender service is Started!
+12/14/2021 11:23:14 PM Email is sent to k181292@nu.edu.pk
+12/14/2021 11:24:40 PM EmailSender service is Stopped!

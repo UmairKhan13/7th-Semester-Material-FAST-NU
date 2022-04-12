@@ -1,0 +1,131 @@
+﻿Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Creating EventLog source Monitor Service in log Application...
+Rolling back assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Restoring event log to previous state for source Monitor Service.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Creating EventLog source Monitor Service in log Application...
+Rolling back assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Restoring event log to previous state for source Monitor Service.
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Removing EventLog source Monitor Service.
+Service Monitor Service is being removed from the system...
+Service Monitor Service was successfully removed from the system.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Service Monitor Service has been successfully installed.
+Creating EventLog source Monitor Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Removing EventLog source Monitor Service.
+Service Monitor Service is being removed from the system...
+Service Monitor Service was successfully removed from the system.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Service Monitor Service has been successfully installed.
+Creating EventLog source Monitor Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Removing EventLog source Monitor Service.
+Service Monitor Service is being removed from the system...
+Service Monitor Service was successfully removed from the system.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Service Monitor Service has been successfully installed.
+Creating EventLog source Monitor Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Removing EventLog source Monitor Service.
+Service Monitor Service is being removed from the system...
+Service Monitor Service was successfully removed from the system.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Service Monitor Service has been successfully installed.
+Creating EventLog source Monitor Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Installing service Monitor Service...
+Creating EventLog source Monitor Service in log Application...
+Rolling back assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Restoring event log to previous state for source Monitor Service.
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q3\bin\Debug\K181292_Q3.exe
+Removing EventLog source Monitor Service.
+Service Monitor Service is being removed from the system...
+Service Monitor Service was successfully removed from the system.

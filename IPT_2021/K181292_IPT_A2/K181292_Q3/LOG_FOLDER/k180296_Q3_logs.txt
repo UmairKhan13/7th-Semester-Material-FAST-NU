@@ -1,0 +1,6 @@
+12/14/2021 10:27:49 PM FileWatcher Started!
+12/14/2021 10:28:49 PM New file added
+12/14/2021 10:28:49 PM Backup for acbcde.txt Completed
+12/14/2021 10:29:49 PM Existing file Changed
+12/14/2021 10:29:49 PM Backup for acbcde.txt Completed
+12/14/2021 10:29:59 PM FileWatcher Stopped!

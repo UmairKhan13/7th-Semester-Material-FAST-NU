@@ -1,0 +1,187 @@
+﻿Installing assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service WindowsService...
+Creating EventLog source WindowsService in log Application...
+Rolling back assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Restoring event log to previous state for source WindowsService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service WindowsService...
+Creating EventLog source WindowsService in log Application...
+Rolling back assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Restoring event log to previous state for source WindowsService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service WindowsService...
+Creating EventLog source WindowsService in log Application...
+Rolling back assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Restoring event log to previous state for source WindowsService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service WindowsService...
+Service WindowsService has been successfully installed.
+Creating EventLog source WindowsService in log Application...
+Committing assembly 'C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\source\repos\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Removing EventLog source Windows Service.
+Warning: The source Windows Service is not registered on the local machine.
+Service Windows Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service Windows Service...
+Service Windows Service has been successfully installed.
+Creating EventLog source Windows Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Removing EventLog source Windows Service.
+Service Windows Service is being removed from the system...
+Service Windows Service was successfully removed from the system.
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Removing EventLog source Windows Service.
+Warning: The source Windows Service is not registered on the local machine.
+Service Windows Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service Windows Service...
+Service Windows Service has been successfully installed.
+Creating EventLog source Windows Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service Windows Service...
+Creating EventLog source Windows Service in log Application...
+Rolling back assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Restoring event log to previous state for source Windows Service.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service Windows Service...
+Creating EventLog source Windows Service in log Application...
+Rolling back assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Restoring event log to previous state for source Windows Service.
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Removing EventLog source Windows Service.
+Service Windows Service is being removed from the system...
+Service Windows Service was successfully removed from the system.
+Attempt to stop service Windows Service.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service Windows Service...
+Service Windows Service has been successfully installed.
+Creating EventLog source Windows Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Uninstalling assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Removing EventLog source Windows Service.
+Service Windows Service is being removed from the system...
+Service Windows Service was successfully removed from the system.
+Attempt to stop service Windows Service.
+Installing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe
+Installing service Windows Service...
+Service Windows Service has been successfully installed.
+Creating EventLog source Windows Service in log Application...
+Committing assembly 'C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.InstallLog
+   assemblypath = C:\Users\mumai\OneDrive\Desktop\K181292_IPT_A2\K181292_Q1\K181292_Q1\bin\Debug\K181292_Q1.exe

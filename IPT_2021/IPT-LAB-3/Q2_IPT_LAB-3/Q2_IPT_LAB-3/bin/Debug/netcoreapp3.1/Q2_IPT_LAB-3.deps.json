@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Q2_IPT_LAB-3/1.0.0": {
+        "runtime": {
+          "Q2_IPT_LAB-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q2_IPT_LAB-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
